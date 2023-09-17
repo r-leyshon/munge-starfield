@@ -1,0 +1,18 @@
+---
+title: "Interactive Table: Starfield Resources"
+format: html
+execute:
+  echo: false
+
+---
+
+```{python echo="false"}
+import pandas as pd
+from itables import show
+
+```
+
+```{python}
+df = pd.read_pickle("starfield-resources.pkl")
+show(df)
+```

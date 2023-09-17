@@ -1,0 +1,11 @@
+---
+title: Hosting HTML outputs
+format: html
+
+---
+
+[Joyplot](/outputs/starfield-resources-joyplot.html)
+
+[Scatter](/outputs/starfield-resources-scatter.html)
+
+[Table](/table.html)

@@ -1,0 +1,6 @@
+project:
+  title: "."
+  render:
+    - "*.qmd"
+    - "!viz-resources.ipynb"
+  output-dir: _docs
