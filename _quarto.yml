@@ -3,4 +3,4 @@ project:
   render:
     - "*.qmd"
     - "!viz-resources.ipynb"
-  output-dir: _docs
+  output-dir: docs
