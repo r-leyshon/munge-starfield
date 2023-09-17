@@ -1,6 +1,8 @@
 project:
-  title: "."
+  type: website
   render:
     - "*.qmd"
     - "!viz-resources.ipynb"
   output-dir: docs
+website:
+  site-url: "https://r-leyshon.github.io/munge-starfield/"
