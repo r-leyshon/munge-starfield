@@ -1,6 +1,8 @@
 ---
 title: Hosting HTML outputs
 format: html
+resources:
+  - .nojekyll
 
 ---
 
